@@ -1,4 +1,4 @@
-# Diigo Rescue - Bookmark converter
+# Diigo Rescue - Convert Diigo HTML bookmarks to CSV
 
 Rescue your Diigo bookmarks and convert them to CSV format when their [export tool](https://www.diigo.com/tools/export) fails.
 
